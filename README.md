@@ -18,7 +18,7 @@ The system consists of coordinated AI agents that collaborate to plan, write, an
 * **`aggregator_agent`:**
   Combines all sections into a cohesive, well-formatted Markdown article with sources and tags.
 
-## ⚙️ Features
+##  Features
 
 * Parallel content generation
 * Structured and citation-aware writing
@@ -35,4 +35,3 @@ The system consists of coordinated AI agents that collaborate to plan, write, an
 
 ---
 
-Would you like me to make it a bit more formal (for GitHub) or more friendly and conversational (for internal use)?
